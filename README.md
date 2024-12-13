@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**lread57/lread57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <p align=center>👋 Hi, I’m Luke </p>
 
-Here are some ideas to get you started:
+<img src="https://i.imgur.com/sYojfCA.png" align=right style="width: 30em; height: 30em;"></img> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>🎓 Computer Science Student</p>
+<p>🛠️ Passionate about writing clean, efficient code</p>
+<p>🌱 I enjoy playing video games and listening to music </p>
+<p>🔍 Interested in Operating Systems and Web Development</p>
+
+---
+
+### <p align=center>Languages</p>
+  <div align=center>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,go,py,ruby,rust" />
+    </a>
+  </div>
+
+### <p align=center>Technologies</p>
+  <div align=center>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,eclipse,git,bash,linux,debian,arch" />
+    </a>
+  </div>
+<br>
+<p align=center><a href="https://lread57.github.io">Visit my github page here</a></p>
