@@ -13,13 +13,13 @@
 ### <p align=center>Languages / Technologies</p>
   <div align=center>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,go,py,ruby,rust" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,go,py,ruby,rust,java" />
     </a>
   </div>
 
   <div align=center>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,eclipse,git,bash,linux,debian,arch" />
+      <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,vscodium,eclipse,git,bash,linux,debian,arch" />
     </a>
   </div>
 <br>
