@@ -1,7 +1,7 @@
 
 # <p align=center>👋 Hi, I’m Luke </p>
 
-<img src="https://i.imgur.com/sYojfCA.png" align=right style="width: 25em; height: 25em;"></img> 
+<img src="https://i.imgur.com/sYojfCA.png" align=right style="width: 25em; height: 30em;"></img> 
 
 <p>🎓 Computer Science Student</p>
 <p>🛠️ Passionate about writing clean, efficient code</p>
